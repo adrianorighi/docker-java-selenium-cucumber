@@ -1,4 +1,4 @@
-FROM maven:4.0.0
+FROM maven:3.6.1
 
 # Google Chrome
 
